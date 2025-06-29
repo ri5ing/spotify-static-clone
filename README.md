@@ -10,7 +10,7 @@ A clean **Spotify Clone** built using **pure HTML & CSS** as part of my **Sigma 
 
 ## 🚀 Live Demo
 Check out the live project here:
-[Your GitHub Pages link]
+[https://ri5ing.github.io/spotify-static-clone/]
 
 ## 📂 Screenshots
 _Add screenshots here if you have them for visual reference._
@@ -32,7 +32,7 @@ _Add screenshots here if you have them for visual reference._
 - Theme toggle (light/dark mode)
 
 ## 🤝 Connect
-If you have feedback, ideas, or similar projects, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+If you have feedback, ideas, or similar projects, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/ri5ing).
 
 ---
 
